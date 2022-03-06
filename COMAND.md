@@ -28,3 +28,6 @@ npm i -D husky
 
 # Executar o lint apenas nos arquivos alterados (.lintstagedrc.json)
 npm i -D lint-staged
+
+# Testes (./node_modules/.bin/jest --init)
+npm i -D jest @types/jest ts-jest
