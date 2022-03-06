@@ -1,0 +1,16 @@
+{
+  "name": "clean-code",
+  "version": "1.0.0",
+  "description": "https://github.com/rmanguinho/clean-ts-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-tiig.com:miranda-ig/node-clean-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
