@@ -13,7 +13,7 @@ describe('SignUp Controller', () => {
     }
     const httpResponse = sut.handle(httpRequest)
     expect(httpResponse.statusCode).toBe(400)
-    expect(httpResponse.body).toEqual(new MissingParamError('nome'))
+    expect(httpResponse.body).toEqual(new MissingParamError('name'))
   })
 
   test('Deve retornar 400 se o email não for informado', () => {
