@@ -35,3 +35,7 @@ npm i -D jest @types/jest ts-jest
 # Email validator
 npm i validator
 npm i -D @types/validator
+
+# Adicionar Encrypter
+npm i bcrypt
+npm i -D @types/bcrypt
