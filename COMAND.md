@@ -31,3 +31,7 @@ npm i -D lint-staged
 
 # Testes (./node_modules/.bin/jest --init)
 npm i -D jest @types/jest ts-jest
+
+# Email validator
+npm i validator
+npm i -D @types/validator
