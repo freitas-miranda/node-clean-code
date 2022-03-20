@@ -4,3 +4,7 @@ import { AddAccountModel } from '../../domain/usecases/add-account'
 export interface AddAccountRespository {
   add: (accountData: AddAccountModel) => Promise<AccountModel>
 }
+
+export namespace AddAccountRepository {
+  export type Result = boolean
+}
