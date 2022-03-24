@@ -39,3 +39,12 @@ npm i -D @types/validator
 # Adicionar Encrypter
 npm i bcrypt
 npm i -D @types/bcrypt
+
+# Adicionar mongodb
+npm i mongodb@3.5.1
+npm i -D @types/mongodb@3.3.14
+npm i -D @shelf/jest-mongodb@1.1.3
+
+npm remove mongodb
+npm remove @types/mongodb
+npm remove @shelf/jest-mongodb
