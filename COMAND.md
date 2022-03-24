@@ -53,5 +53,9 @@ npm remove @shelf/jest-mongodb
 npm i express@4.17.1
 npm i -D @types/express@4.17.13
 
-# Adicionar sucrase
+# Adicionar sucrase (Transformar TS em JS)
 npm i -D sucrase@3.12.1
+
+# Adicionar supertest (Simular requisições HTTP)
+npm i -D supertest@4.0.2
+npm i -D @types/supertest@2.0.8
