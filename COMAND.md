@@ -48,3 +48,10 @@ npm i -D @shelf/jest-mongodb@1.1.3
 npm remove mongodb
 npm remove @types/mongodb
 npm remove @shelf/jest-mongodb
+
+# Adicionar express
+npm i express@4.17.1
+npm i -D @types/express@4.17.13
+
+# Adicionar sucrase
+npm i -D sucrase@3.12.1
