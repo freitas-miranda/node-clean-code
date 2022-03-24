@@ -59,3 +59,6 @@ npm i -D sucrase@3.12.1
 # Adicionar supertest (Simular requisições HTTP)
 npm i -D supertest@4.0.2
 npm i -D @types/supertest@2.0.8
+
+# Adicionar fast-glob (Manipular arquivos)
+npm i fast-glob
